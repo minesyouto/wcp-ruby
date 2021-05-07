@@ -1,0 +1,2 @@
+name = "mine"
+puts name
